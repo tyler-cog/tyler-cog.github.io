@@ -2,7 +2,7 @@
 layout: page
 title: Vehicle Identification
 description: To identify and analyze vehicles in parking lots.
-img: assets/img/VI_EX.jpg
+img: assets/img/VI_EX.JPG
 importance: 1
 category: work
 related_publications: false
