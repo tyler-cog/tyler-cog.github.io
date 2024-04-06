@@ -15,13 +15,13 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Tyler, currently I have a Computer Science Degree at Texas A&M with a minor in Japanese!
+I'm Tyler, I graduated from Texas A&M with a Bachelor in Computer Science and a minor in Japanese!
 
 With my experience at Texas A&M IT Department, I've honed my skills in customer service, management, and technical support.
-Whereas My projects, like the Vehicle Identification for Walmart and Colorization, showcase my proficiency in Python and innovative problem-solving. 
+Whereas my projects, like the Vehicle Identification for Walmart and Colorization, showcase my proficiency in Python and innovative problem-solving. 
 
 I would also consider myself adept in Java, HTML, CSS, JavaScript, and C++, with strong communication
-skills and expertise in data structures, algorithms, and databases. 
+skills and expertise in data structures, algorithms, databases, and more. 
 
 Currently looking for any opportunities to better my skills as a Software Developer!
 
