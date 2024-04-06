@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tyler-cog.github.io/tyler-cog/sitemap.xml
