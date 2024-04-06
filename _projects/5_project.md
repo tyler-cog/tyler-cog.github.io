@@ -2,7 +2,7 @@
 layout: page
 title: Colorization
 description: Practice with optimization, turning grayscale images to color via scribbles. 
-img: assets/img/colorCorb2.jpg
+img: assets/img/colorCorb2.JPG
 importance: 3
 category: fun
 ---
@@ -12,13 +12,13 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/colorCorb1.jpg" title="colorCorbGray" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colorCorb1.JPG" title="colorCorbGray" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/colorCorb2.jpg" title="colorCorbScribble" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colorCorb2.JPG" title="colorCorbScribble" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/colorCorb3.jpg" title="colorCorbFinal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colorCorb3.JPG" title="colorCorbFinal" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="text-align: left;">
@@ -27,13 +27,13 @@ category: fun
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/colorYa1.jpg" title="colorYaGray" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colorYa1.JPG" title="colorYaGray" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/colorYa2.jpg" title="colorYaScribble" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colorYa2.JPG" title="colorYaScribble" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/colorYa3.jpg" title="colorYaFinal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/colorYa3.JPG" title="colorYaFinal" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="text-align: left;">

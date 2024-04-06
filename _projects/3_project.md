@@ -2,7 +2,7 @@
 layout: page
 title: Assignment Stacker
 description: A method to organize various classes and assignments from different sources.
-img: assets/img/assignStack.jpg
+img: assets/img/assignStack.JPG
 # redirect: https://unsplash.com
 importance: 3
 category: work
@@ -14,7 +14,7 @@ category: work
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/assignStack.jpg" title="assignStackHome" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/assignStack.JPG" title="assignStackHome" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="text-align: left;">
@@ -23,7 +23,7 @@ category: work
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/assignNotif.jpg" title="assignStackNotif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/assignNotif.JPG" title="assignStackNotif" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="text-align: left;">

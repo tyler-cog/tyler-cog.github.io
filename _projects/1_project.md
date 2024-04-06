@@ -26,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/VI_EX.jpg" title="vehicleStates" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/VI_EX.JPG" title="vehicleStates" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="text-align: left;">
@@ -34,7 +34,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/VI_site.jpg" title="VI_Webpage" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/VI_site.JPG" title="VI_Webpage" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption" style="text-align: left;">
